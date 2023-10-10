@@ -5,6 +5,8 @@ import ActivityList from "./ActivityList";
 import ActivityDetails from "../details/ActivityDetails";
 import ActivityForm from "../form/ActivityForm";
 
+// Adding comment to keep up github commit history
+
 interface Props {
     activities: Activity[];
     selectedActivity: Activity | undefined;
