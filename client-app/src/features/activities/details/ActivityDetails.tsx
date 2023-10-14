@@ -9,6 +9,7 @@ import ActivityDetailedInfo from "./ActivityDetailedInfo";
 import ActivityDetailedChat from "./ActivityDetailedChat";
 import ActivityDetailedSidebar from "./ActivityDetailedSidebar";
 
+// Adding comment
 
 export default observer(function ActivityDetails() {
 
